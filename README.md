@@ -1,2 +1,1 @@
-# conflict-demo
-# LOCAL LINE
+# Demo from Local
