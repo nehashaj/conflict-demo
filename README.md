@@ -1,1 +1,2 @@
-# Demo from Local
+# Demo from Local and GitHub — conflict resolved by Neha
+
